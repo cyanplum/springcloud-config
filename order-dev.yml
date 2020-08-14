@@ -23,4 +23,4 @@ mybatis-plus:
     map-underscore-to-camel-case: true
 server:
   port: 10087
-env: test3
+env: test66
